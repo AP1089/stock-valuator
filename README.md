@@ -1,5 +1,4 @@
 # stock-valuator
-A sample python program that calculates a company's stock price.
 
 This is a sample python program that uses mocked data to calculate a company’s suggested stock price based on a 
 version of the Terminal Value method. The stock data is parsed from mocked data stored in a json file found 
